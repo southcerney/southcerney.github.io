@@ -1,1 +1,4 @@
 # block all crawlers
+
+User-agent: *
+Disallow: /pcarchive/
